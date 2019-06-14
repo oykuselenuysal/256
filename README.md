@@ -8,8 +8,7 @@ THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY. IT WAS PERFORMED FOR COURSE IE256
 
   METHOD:
  
-  Based on the two .rds files about matches and odds in this link https://drive.google.com/open?id=10ubZ9Qb9j1EXQ3xKF3Sg_Bc-AP68XFgS ,
-Premiere League teams' matches are filtered in date,hour,season and other necessary categories. In different steps of the project, home,away and total goals were studied and questioned if there were any known distribution for these variables. Also hypothesis testing was applied in order to evaluate the claims in process. To visualize data and support the claims, histograms and plots are highly used. In final part of the project, the relation between total goals and selected predictors is studied and multiple linear regression is performed. In order to perform predictions, the data is split into test(2018-2019 season) and train data(seasons starting from 2010 until 2018). After modeling and predicting, the success of the model is tested by betting for spesific odd type for various matches.
+  Based on the data of matches and odds,Premiere League teams' matches are filtered in date,hour,season and other necessary categories. In different steps of the project, home,away and total goals were studied and questioned if there were any known distribution for these variables. Also hypothesis testing was applied in order to evaluate the claims in process. To visualize data and support the claims, histograms and plots are highly used. In final part of the project, the relation between total goals and selected predictors is studied and multiple linear regression is performed. In order to perform predictions, the data is split into test(2018-2019 season) and train data(seasons starting from 2010 until 2018). After modeling and predicting, the success of the model is tested by betting for spesific odd type for various matches.
 
 
   CONCLUSION:
